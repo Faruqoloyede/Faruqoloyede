@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Faruq oloyede</h1> 
   <p align="center"> I am a Frontend Developer (Html, Css, SASS, Javascript/React + TailwindCSS, Bootsrap)</p>
-  <p align='center'>I designed/ build an eye catching website and webapp</p>
+  <p align='center'>I designed/ build an eye catching and user friendly website and webapp</p>
   <p align='center'> Reach out to me here 👇</p>
 </p>
 
